@@ -1,0 +1,5 @@
+{
+  "lines": ["example line"],
+  "answer": "example",
+  "decoys": ["one", "two", "three"]
+}
