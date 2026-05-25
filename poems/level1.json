@@ -1,5 +1,9 @@
 {
-  "lines": ["example line"],
-  "answer": "example",
-  "decoys": ["one", "two", "three"]
+  "title": "Level 1",
+  "lines": [
+    ["The", "wave", "rolls", "in,"],
+    ["the", "shore", "grows", "{blank}"]
+  ],
+  "answer": "near",
+  "decoys": ["loud", "thin", "cold"]
 }
