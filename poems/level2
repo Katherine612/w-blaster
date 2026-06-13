@@ -1,0 +1,12 @@
+{
+  "title": "Level 2",
+  "lines": [
+    ["My", "swing", "ain't", "swingin"],
+    ["Everything", "else"],
+    ["is", "blowing", "in", "the"],
+    ["____"],
+    ["I", "reckon", "it's", "waiting", "for", "us."],
+  ],
+  "answer": "wind",
+  "decoys": ["breeze", "storm", "heat","garden","face","muffin","hugs"]
+}
