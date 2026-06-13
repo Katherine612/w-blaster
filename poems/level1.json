@@ -7,8 +7,8 @@
     ["hands."],
     ["I", "like", "these", "things"],
     ["and", "some", "like", "me"],
-    ["How", "lucky", "can", "I", "be?"]
+    ["How", "____", "can", "I", "be?"]
   ],
-  "answer": "near",
-  "decoys": ["loud", "thin", "cold"]
+  "answer": "lucky",
+  "decoys": ["loud", "thin", "cold","sexy","cute","sneaky","confused"]
 }
